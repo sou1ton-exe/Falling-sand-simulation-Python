@@ -1,4 +1,4 @@
-# Falling Sand Simulation
+# Falling sand simulation
 Simulation Preview:
 
 
